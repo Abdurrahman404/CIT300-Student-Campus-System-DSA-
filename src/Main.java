@@ -13,7 +13,7 @@ import student.Student;
 import student.StudentLinkedList;
 import tree.StudentBST;
 
-/** Console menu and integration of all six required data structures. */
+/** Console menu and integration  */
 public final class Main {
     private final StudentLinkedList students = new StudentLinkedList();
     private final StudentBST tree = new StudentBST();
@@ -322,3 +322,11 @@ public final class Main {
         campus.addConnection("Library", "Cafeteria");
     }
 }
+
+
+// the flow of the program is as follows:
+// 1. read input
+// 2. process input
+// 3. display output
+// 4. repeat
+// all checked and working fine Abdurrahman grp Leader
