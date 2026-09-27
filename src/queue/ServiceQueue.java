@@ -1,5 +1,7 @@
 package queue;
 
+// student class is in student package to keep the requested one-file queue folder
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
